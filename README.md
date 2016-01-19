@@ -9,13 +9,20 @@ Link to App Store Page: [Story Grid](https://itunes.apple.com/ca/app/story-grid-
 
 
 
+[Main .swift files in project](../Personal-Projects-and-Code-Samples/tree/master/iOS%20Project%20Main%20Swift%20Files/Story%20Grid)
+
+
 ## Berning Up
 ######Description:
 Universal iOS App to promote political involvment and discussions through personalized social media shareables.
 
 Link to App Store Page: [Berning Up](https://itunes.apple.com/ca/app/berning-up-show-your-support/id1066605400?mt=8&ign-mpt=uo%3D4)
-	
 
+
+
+[Main .swift files in project](../Personal-Projects-and-Code-Samples/tree/master/iOS%20Project%20Main%20Swift%20Files/Story%20Grid)
+
+	
 	
 ## Redirect Weblinks for App Marketing
 ######Description:
@@ -23,4 +30,6 @@ A Quick and easy way for app developers to create marketing links for their apps
 
 ######Example Links:
 [awhitman92.com/berningup](http://awhitman92.com/berningup/)
+
+
 [awhitman92.com/storygrid](http://awhitman92.com/storygrid/)
