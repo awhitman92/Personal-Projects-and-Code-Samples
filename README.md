@@ -9,7 +9,7 @@ Link to App Store Page: [Story Grid](https://itunes.apple.com/ca/app/story-grid-
 
 
 
-[Main .swift files in project](../blob/master/iOSProjectSwiftFiles/StoryGrid/)
+[Main .swift files in project](../master/iOSProjectSwiftFiles/StoryGrid/)
 
 
 ## Berning Up
@@ -20,7 +20,7 @@ Link to App Store Page: [Berning Up](https://itunes.apple.com/ca/app/berning-up-
 
 
 
-[Main .swift files in project](../blob/master/iOSProjectSwiftFiles/BerningUp/)
+[Main .swift files in project](../master/iOSProjectSwiftFiles/BerningUp/)
 
 	
 
@@ -36,4 +36,4 @@ A Quick and easy way for app developers to create marketing links for their apps
 
 
 
-[Website Template Example Code](../blob/master/RedirectWebpage/)
+[Website Template Example Code](../master/RedirectWebpage/)
