@@ -36,4 +36,4 @@ A Quick and easy way for app developers to create marketing links for their apps
 
 
 
-[Website Template Example Code](../master/RedirectWebpage/)
+[Website Template Example Code](../master/RedirectWebpage/sample/)
