@@ -9,7 +9,7 @@ Link to App Store Page: [Story Grid](https://itunes.apple.com/ca/app/story-grid-
 
 
 
-[Main .swift files in project](../Personal-Projects-and-Code-Samples/tree/master/iOS%20Project%20Main%20Swift%20Files/Story%20Grid)
+[Main .swift files in project](../blob/master/iOSProjectSwiftFiles/StoryGrid/)
 
 
 ## Berning Up
@@ -20,10 +20,10 @@ Link to App Store Page: [Berning Up](https://itunes.apple.com/ca/app/berning-up-
 
 
 
-[Main .swift files in project](../Personal-Projects-and-Code-Samples/tree/master/iOS%20Project%20Main%20Swift%20Files/Story%20Grid)
+[Main .swift files in project](../blob/master/iOSProjectSwiftFiles/BerningUp/)
 
 	
-	
+
 ## Redirect Weblinks for App Marketing
 ######Description:
 A Quick and easy way for app developers to create marketing links for their apps. When a user visits this page a company can setup if they want to direct the user to the App Store if they are on iOS, the Play Store if they are using Android, or to a separate landing page that can direct to a company site or social media presence. 
@@ -33,3 +33,7 @@ A Quick and easy way for app developers to create marketing links for their apps
 
 
 [awhitman92.com/storygrid](http://awhitman92.com/storygrid/)
+
+
+
+[Website Template Example Code](../blob/master/RedirectWebpage/)
