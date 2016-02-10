@@ -14,7 +14,7 @@ Link to App Store Page: [Story Grid](https://itunes.apple.com/ca/app/story-grid-
 
 ## Berning Up
 ######Description:
-Universal iOS App to promote political involvment and discussions through personalized social media shareables.
+Universal iOS App to promote political involvement and discussions through personalized social media shareables.
 
 Link to App Store Page: [Berning Up](https://itunes.apple.com/ca/app/berning-up-show-your-support/id1066605400?mt=8&ign-mpt=uo%3D4)
 
