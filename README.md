@@ -25,10 +25,10 @@ Link to App Store Page: [Berning Up](https://itunes.apple.com/ca/app/berning-up-
 	
 
 ## Redirect Weblinks for App Marketing
-######Description:
+
 A Quick and easy way for app developers to create marketing links for their apps. When a user visits this page a company can setup if they want to direct the user to the App Store if they are on iOS, the Play Store if they are using Android, or to a separate landing page that can direct to a company site or social media presence. 
 
-######Example Links:
+Example Links:
 [awhitman92.com/berningup](http://awhitman92.com/berningup/)
 
 [Website Template Example Code](../master/RedirectWebpage/sample/)
